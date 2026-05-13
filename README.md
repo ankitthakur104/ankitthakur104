@@ -12,7 +12,7 @@
 
   <!-- Social badges -->
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ankitthakur104.github.io-06b6d4?style=for-the-badge&labelColor=0a0e1a)](https://ankitthakur104.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e1a)](https://linkedin.com/in/ankitthakur104)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e1a)](https://www.linkedin.com/in/ankitkumar104/)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-8b5cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e1a)](https://github.com/ankitthakur104)
   [![Email](https://img.shields.io/badge/Email-Hire_Me-22c55e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e1a)](mailto:ankitthakur104@gmail.com)
 
@@ -125,7 +125,7 @@
   I'm actively looking for **AI/ML Engineer** roles where I can build impactful products.
 
   [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-→-06b6d4?style=for-the-badge&labelColor=0a0e1a)](https://ankitthakur104.github.io)
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-→-0077b5?style=for-the-badge&labelColor=0a0e1a&logo=linkedin)](https://linkedin.com/in/ankitthakur104)
+  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-→-0077b5?style=for-the-badge&labelColor=0a0e1a&logo=linkedin)](https://www.linkedin.com/in/ankitkumar104/)
 
   <br/>
 
