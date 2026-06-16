@@ -1,12 +1,12 @@
 <div align="center">
 
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=200&section=header&text=Ankit%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20GenAI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=200&section=header&text=Ankit%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20GenAI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" />
 
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Production+AI+Systems;LangGraph+%7C+MCP+%7C+Agentic+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Pinecone+%7C+FAISS+%7C+PostgreSQL;Open+to+exciting+AI%2FML+opportunities!" alt="Typing SVG" />
-    </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Production+AI+Systems;LangGraph+%7C+MCP+%7C+Agentic+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Pinecone+%7C+FAISS+%7C+PostgreSQL;Open+to+exciting+AI%2FML+opportunities!" alt="Typing SVG" />
+</a>
 
-    <br/>
+<br/>
 
     [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ankitthakur104.github.io-06b6d4?style=for-the-badge&labelColor=0a0e1a)](https://ankitthakur104.github.io)
     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e1a)](https://www.linkedin.com/in/ankitkumar104/)
@@ -111,12 +111,12 @@
   ## 📊 GitHub Stats
 
   <div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ankitthakur104&show_icons=true&theme=tokyonight&bg_color=0a0e1a&border_color=1f2937&title_color=06b6d4&icon_color=8b5cf6&text_color=e2e8f0&hide_border=false&count_private=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitthakur104&layout=compact&theme=tokyonight&bg_color=0a0e1a&border_color=1f2937&title_color=06b6d4&text_color=e2e8f0&hide_border=false&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ankitthakur104&show_icons=true&theme=tokyonight&bg_color=0a0e1a&border_color=1f2937&title_color=06b6d4&icon_color=8b5cf6&text_color=e2e8f0&hide_border=false&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitthakur104&layout=compact&theme=tokyonight&bg_color=0a0e1a&border_color=1f2937&title_color=06b6d4&text_color=e2e8f0&hide_border=false&langs_count=8" />
   </div>
 
   <div align="center">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitthakur104&theme=tokyonight&background=0a0e1a&border=1f2937&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=94a3b8" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitthakur104&theme=tokyonight&background=0a0e1a&border=1f2937&ring=06b6d4&fire=8b5cf6&currStreakLabel=06b6d4&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=94a3b8" />
   </div>
 
   ---
@@ -148,7 +148,7 @@
   [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-→-06b6d4?style=for-the-badge&labelColor=0a0e1a)](https://ankitthakur104.github.io)
   [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-→-0077b5?style=for-the-badge&labelColor=0a0e1a&logo=linkedin)](https://www.linkedin.com/in/ankitkumar104/)
 
-  <br/>
+<br/>
 
   *"I don't just use AI tools — I build the systems that power them."*
 
@@ -157,5 +157,5 @@
   ---
 
   <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:06b6d4&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:06b6d4&height=100&section=footer" />
   </div>
