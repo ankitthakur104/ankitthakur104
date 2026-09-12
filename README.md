@@ -16,13 +16,13 @@
 
   ## 🧠 About Me
 
-  > **AI / GenAI Engineer** with **3+ years** of experience building production-grade intelligent systems — multi-agent LangGraph pipelines, MCP-integrated knowledge assistants, NL-to-SQL platforms, and enterprise RAG systems.
+  > **AI / GenAI Engineer** with **2+ years** of experience building production-grade intelligent systems — multi-agent LangGraph pipelines, MCP-integrated knowledge assistants, NL-to-SQL platforms, and enterprise RAG systems.
 
   ```python
   class AnkitKumar:
       role        = "AI / GenAI Engineer"
-      experience  = "3+ years"
-      company     = "Inquipo Technologies  (Oct 2023 – Present)"
+      experience  = "2+ years"
+      company     = "Inquipo Technologies  (Mar 2024 – Present)"
       focus       = ["LangGraph", "MCP", "Agentic AI", "RAG", "LLMs", "FastAPI"]
       stack       = ["Python", "LangGraph", "MCP", "GPT-4o", "Claude",
                      "Pinecone", "FAISS", "FastAPI", "PostgreSQL", "Azure"]
@@ -34,7 +34,7 @@
 
   ## 💼 Experience Highlights
 
-  **AI / GenAI Engineer — Inquipo Technologies** *(Oct 2023 – Present)*
+  **AI / GenAI Engineer — Inquipo Technologies** *(Mar 2024 – Present)*
 
   | Impact | Result |
   |--------|--------|
