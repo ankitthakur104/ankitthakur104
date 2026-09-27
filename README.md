@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:8b5cf6&height=200&section=header&text=Ankit%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20GenAI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=2%2B+Years+Building+Production+AI+Systems;LangGraph+%7C+MCP+%7C+Agentic+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Pinecone+%7C+FAISS+%7C+PostgreSQL;Open+to+exciting+AI%2FML+opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=3%2B+Years+Building+Production+AI+Systems;LangGraph+%7C+MCP+%7C+Agentic+AI+%7C+RAG+%7C+LLMs;FastAPI+%7C+Pinecone+%7C+FAISS+%7C+PostgreSQL;Open+to+exciting+AI%2FML+opportunities!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -16,13 +16,13 @@
 
   ## 🧠 About Me
 
-  > **AI / GenAI Engineer** with **2+ years** of experience building production-grade intelligent systems — multi-agent LangGraph pipelines, MCP-integrated knowledge assistants, NL-to-SQL platforms, and enterprise RAG systems.
+  > **AI / GenAI Engineer** with **3+ years** of experience building production-grade intelligent systems — multi-agent LangGraph pipelines, MCP-integrated knowledge assistants, NL-to-SQL platforms, and enterprise RAG systems.
 
   ```python
   class AnkitKumar:
       role        = "AI / GenAI Engineer"
-      experience  = "2+ years"
-      company     = "Inquipo Technologies  (Mar 2024 – Present)"
+      experience  = "3+ years"
+      company     = "Inquipo Technologies  (Sep 2023 – Present)"
       focus       = ["LangGraph", "MCP", "Agentic AI", "RAG", "LLMs", "FastAPI"]
       stack       = ["Python", "LangGraph", "MCP", "GPT-4o", "Claude",
                      "Pinecone", "FAISS", "FastAPI", "PostgreSQL", "Azure"]
@@ -34,7 +34,7 @@
 
   ## 💼 Experience Highlights
 
-  **AI / GenAI Engineer — Inquipo Technologies** *(Mar 2024 – Present)*
+  **AI / GenAI Engineer — Inquipo Technologies** *(September 2023 – Present)*
 
   | Impact | Result |
   |--------|--------|
